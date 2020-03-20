@@ -82,4 +82,4 @@ A curated list of amazing SceneKit tutorials, projects and resources. Feel free 
 
 ## Contributing
 
-Please take a quick look at the [contribution guidelines](https://github.com/)  first. If you see a resource or project here that is no longer valid or is not a good fit, please submit a [pull request](https://github.com/) to improve this list. Thanks to all contributors.
+Please take a quick look at the [contribution guidelines](contributing.md)  first. If you see a resource or project here that is no longer valid or is not a good fit, please submit a [pull request](https://github.com/) to improve this list. Thanks to all contributors.
